@@ -1,4 +1,4 @@
 # Covid19_diagnosis
 - EDA
-- préprocessing
+- preprocessing
 - ML
