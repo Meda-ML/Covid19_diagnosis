@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Covid19_diagnosis_archive">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/data/Covid19_diagnosis_archive.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
